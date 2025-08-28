@@ -14,6 +14,9 @@ public class MyExample1 {
 		{
 			System.out.println(a[i]);
 		}
+
+System.out.println("hi");
+		
 		
 		
 		
@@ -25,3 +28,4 @@ public class MyExample1 {
 	}
 
 }
+
